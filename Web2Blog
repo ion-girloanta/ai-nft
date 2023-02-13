@@ -1,0 +1,52 @@
+https://www.youtube.com/watch?v=EyIvuigqDoA
+
+npx create-expo-app ai-nft
+cd ai-nft
+npm run android
+npm run ios
+npm run web
+npx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-config@^0.17.2
+
+npx create-react-app ai-nft
+cd ai-nft
+git init -b master
+git add . && git commit -m "initial commit"
+git remote add origin https://github.com/ion-girloanta/ai-nft.git
+git remote -v
+git push -u origin master
+
+npm create vite@latest ./
+## react
+## javascript
+
+npm install file-saver
+npm install react-router-dom
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+replace   tailwind.config.cjs
+
+npm install cloudinary cors dotenv express mongoose nodemon openai
+
+
+
+
+truffle --version
+truffle init
+truffle unbox metacoin
+truffle compile
+md ./client
+cd client
+npm create vite@latest ./
+## react
+## javascript
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install file-saver
+npm install react-router-dom
+npm run dev
+cd ./server 
+npm install cloudinary cors dotenv express mongoose nodemon openai
+npm start
+create an account on mongodb.com/atlas/database
+create a project
+create an account on openai.com
